@@ -1,0 +1,3 @@
+git add .
+git commit -m "force use npm instead of yarn"
+git push
