@@ -54,4 +54,5 @@
   "engines": {
     "node": ">=20"
   }
+"packageManager": "npm@8.19.4"
 }
